@@ -26,7 +26,7 @@
 ```bash
 # Клонирование репозитория
 git clone https://github.com/mosvlad/crimea-psychological-embeddings
-cd crimean-survey-nlp-clustering
+cd crimea-psychological-embeddings
 
 # Создание виртуального окружения
 python -m venv venv
